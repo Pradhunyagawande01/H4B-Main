@@ -15,18 +15,18 @@ function Partners() {
 
   // Partner data with military and media partners
   const partners = {
-    general: {
-      title: "GENERAL",
-      description: "Supreme Command Level Partners",
-      icon: Shield,
-      partners: [
-        {
-          name: "Orkes",
-          logo: "/img/Orkes.png",
-          rank: "Diamond",
-        },
-      ],
-    },
+    // general: {
+    //   title: "GENERAL",
+    //   description: "Supreme Command Level Partners",
+    //   icon: Shield,
+    //   partners: [
+    //     {
+    //       name: "Orkes",
+    //       logo: "/img/Orkes.png",
+    //       rank: "Diamond",
+    //     },
+    //   ],
+    // },
     colonel: {
       title: "COLONEL",
       description: "Elite Tactical Division",
